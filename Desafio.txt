@@ -1,0 +1,6 @@
+O desafio para semana que vem é um CRUD de 
+Usuários, com nome, idade. O código será 
+igual a esse, exceto que devem adicionar uma 
+listagem por ID també. Preparem-se para o
+próximo nível de desenvolvimento. A batalha 
+continua, programadores!"
